@@ -9,4 +9,9 @@
 7. Busca “hackers” con resultados de las últimas 24 horas. <https://www.google.es/search?q=hackers&as_qdr=d>
 8. Busca imágenes png del league of legends que tengan licencia para ser utilizadas y modificadas, incluyendo fines comerciales.<https://www.google.es/search?q=league+legends&as_filetype=png&as_rights=(cc_publicdomain|cc_attribute|cc_sharealike).-(cc_noncommercial|cc_nonderived)>
 9. Realiza una búsqueda que incluya
-10. 
+10. la palabra bitcoin y la palabar robar, o sinónimos de robar. <https://www.google.es/search?q=%2Bbitcoin+%2Brobo>
+11. la palabra bitcoin y la palabra robar, exactamente. <https://www.google.es/search?q=~bitcoin+~robar>
+12. Realiza una búsqueda que devuelva la definición de “orate” <https://www.google.es/search?q=define%3Aorate>
+13. Realiza una búsqueda con los términos que quieras, que estén en idioma alemán. <https://www.google.es/search?q=cerveza&lr=lang_de>
+14. Realiza una búsqueda con los términos que quieras, que estén en un servidor en alemania. <https://www.google.es/search?q=cerveza&cr=countryDE>
+15. realiza una búsqueda con los términos que quieras, que estén en idioma alemán y en un servidor en alemania. <https://www.google.es/search?q=cerveza&cr=countryDE&lr=lang_de>
